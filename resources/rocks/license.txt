@@ -1,0 +1,11 @@
+Model Information:
+* title:	Big Rocks ground
+* source:	https://sketchfab.com/3d-models/big-rocks-ground-031c365212854242a6f8571a867276db
+* author:	xtremederpie (https://sketchfab.com/xtremederpie)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Big Rocks ground" (https://sketchfab.com/3d-models/big-rocks-ground-031c365212854242a6f8571a867276db) by xtremederpie (https://sketchfab.com/xtremederpie) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

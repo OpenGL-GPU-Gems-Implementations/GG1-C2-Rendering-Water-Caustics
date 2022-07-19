@@ -1,0 +1,9 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "cmake.configureOnOpen": false,
+    "files.associations": {
+        "limits": "cpp",
+        "chrono": "cpp",
+        "random": "cpp"
+    }
+}

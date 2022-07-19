@@ -1,0 +1,8 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make.exe: Entering directory 'c:/Users/eron/Documents/GitHub/GG1-C2-Rendering-Water-Caustics'
+g++ -Wall -c -g -Iinclude objects/water.cpp
+g++ -Wall -c -g -Iinclude kernel/kernel.cpp
+g++ -Wall -c -g -Iinclude main.cpp
+g++ -Wall -g -Iinclude water.o kernel.o main.o -o EWS.exe -Llib -lmingw32 -lopengl32 -lSDL2_ttf -lglew32 -lglu32 -lfreeglut -lSDL2main -lSDL2 -lSDL2_image -lglew32mx -lassimp.dll
+make.exe: Leaving directory 'c:/Users/eron/Documents/GitHub/GG1-C2-Rendering-Water-Caustics'
+ 
